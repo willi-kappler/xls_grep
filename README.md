@@ -1,6 +1,8 @@
 # xls_grep
 A simple (quick and dirty) tool to search for a given text through a bunch of Excel files
 
+License: MIT
+
 This tool allows you to search for a specific string in a bunch of Excel files.
 I wrote this in order to recover important sheets from a crashed hard drive. Use phorotec first then run
 xls_grep on the resulting "recup_dir" folders.
